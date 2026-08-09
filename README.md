@@ -7,9 +7,10 @@ Glioblastoma (GBM) is one of the most aggressive and clinically challenging prim
 This project analyzes publicly available **Bulk RNA-seq datasets** from the **NCBI Gene Expression Omnibus (GEO)**. Two independent datasets, **GSE147352** and **GSE151352**, were integrated using a **random-effects meta-analysis** to identify genes showing consistent differential expression across studies.
 
 
-Objectives
-Identify differentially expressed genes associated with glioblastoma.
-Integrate independent datasets using meta-analysis.
-Identify genes with consistent effects across studies.
-Visualize meta-analysis results using volcano plots.
-Explore significant genes through Protein–Protein Interaction (PPI) network analysis and identify potential hub genes
+## Objectives
+
+- Identify differentially expressed genes associated with glioblastoma.
+- Integrate independent datasets using meta-analysis.
+- Identify genes showing consistent effects across independent studies.
+- Visualize meta-analysis results using volcano plots.
+- Explore significant genes through Protein–Protein Interaction (PPI) network analysis and identify potential hub genes.
