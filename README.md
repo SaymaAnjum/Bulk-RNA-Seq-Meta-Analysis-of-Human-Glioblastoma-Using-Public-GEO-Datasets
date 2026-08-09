@@ -1,6 +1,6 @@
 # Bulk-RNA-Seq-Meta-Analysis-of-Human-Glioblastoma-Using-Public-GEO-Datasets
 
-Project Overview
+## Project Overview
 
 Glioblastoma (GBM) is one of the most aggressive and clinically challenging primary brain tumors. Its molecular heterogeneity and high recurrence rate make it important to identify robust gene-expression changes associated with the disease.
 
